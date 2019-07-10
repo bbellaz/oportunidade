@@ -1,0 +1,11 @@
+C:\Projetos\oportunidade\AnalisadorFeed\AnalisadorFeed\bin\Debug\netcoreapp2.0\AnalisadorFeed.deps.json
+C:\Projetos\oportunidade\AnalisadorFeed\AnalisadorFeed\bin\Debug\netcoreapp2.0\AnalisadorFeed.runtimeconfig.json
+C:\Projetos\oportunidade\AnalisadorFeed\AnalisadorFeed\bin\Debug\netcoreapp2.0\AnalisadorFeed.runtimeconfig.dev.json
+C:\Projetos\oportunidade\AnalisadorFeed\AnalisadorFeed\bin\Debug\netcoreapp2.0\AnalisadorFeed.dll
+C:\Projetos\oportunidade\AnalisadorFeed\AnalisadorFeed\bin\Debug\netcoreapp2.0\AnalisadorFeed.pdb
+C:\Projetos\oportunidade\AnalisadorFeed\AnalisadorFeed\obj\Debug\netcoreapp2.0\AnalisadorFeed.csprojResolveAssemblyReference.cache
+C:\Projetos\oportunidade\AnalisadorFeed\AnalisadorFeed\obj\Debug\netcoreapp2.0\AnalisadorFeed.csproj.CoreCompileInputs.cache
+C:\Projetos\oportunidade\AnalisadorFeed\AnalisadorFeed\obj\Debug\netcoreapp2.0\AnalisadorFeed.AssemblyInfoInputs.cache
+C:\Projetos\oportunidade\AnalisadorFeed\AnalisadorFeed\obj\Debug\netcoreapp2.0\AnalisadorFeed.AssemblyInfo.cs
+C:\Projetos\oportunidade\AnalisadorFeed\AnalisadorFeed\obj\Debug\netcoreapp2.0\AnalisadorFeed.dll
+C:\Projetos\oportunidade\AnalisadorFeed\AnalisadorFeed\obj\Debug\netcoreapp2.0\AnalisadorFeed.pdb
